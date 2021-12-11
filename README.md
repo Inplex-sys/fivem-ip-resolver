@@ -1,4 +1,4 @@
-# Dark Utilities - Proxy List
+# Dark Utilities - CFX.RE-RESOLVER
 
 Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
