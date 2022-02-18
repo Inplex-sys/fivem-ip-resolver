@@ -20,7 +20,7 @@
 #                                                                              #
 # You should DarkUtilities received a copy of the GNU Lesser General Public    #
 # License along with DarkUtilities.                                            #
-# If not, see <http://www.gnu.org/licenses/>.								   #
+# If not, see <http://www.gnu.org/licenses/>.				       #
 #                                                                              #
 ################################################################################
 #                     Made with ❤️ by github.com/inplex-sys                    #
@@ -54,8 +54,8 @@ class Resolver:
             "accept": "application/json, text/plain, */*",
             "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
             "sec-ch-ua": '"Chromium";v="96", "Opera GX";v="82", ";Not A Brand";v="99"',
-			"origin": "https://servers.fivem.net",
-			"referer": "https://servers.fivem.net/",
+	    "origin": "https://servers.fivem.net",
+	    "referer": "https://servers.fivem.net/",
             "sec-ch-ua-mobile": "?0",
             "sec-ch-ua-platform": '"Windows"',
             "sec-fetch-dest": "empty",
