@@ -1,6 +1,4 @@
-# Dark Utilities - FIVEM-IP-RESOLVER
-
-Our Website [https://dark-utilities.pw/](https://dark-utilities.pw/) !
+# FIVEM-IP-RESOLVER
 
 ### Install the app on the server
 ```sh
